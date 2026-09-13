@@ -1,13 +1,13 @@
 # Joy Wireframes
 
-![Status](https://img.shields.io/badge/status-in%20progress-blue)
+![Status](https://img.shields.io/badge/status-final-brightgreen)
 ![Screens](https://img.shields.io/badge/screens-3-informational)
 ![Built with](https://img.shields.io/badge/built%20with-HTML%20%26%20CSS-orange)
 ![License](https://img.shields.io/badge/license-private-red)
 
 ## Overview
 
-This repository contains the interface prototypes for Joy, a companion platform for private adoption in the United States. Joy is sold to and maintained by adoption attorneys, who provide it to their clients, including adoptive families and birth parents. It is not a legal case-management tool and does not give legal advice. Everything shown is presented as the attorney's vetted guidance.
+This repository contains the finished interface prototypes for Joy, a companion platform for private adoption in the United States. Joy is sold to and maintained by adoption attorneys, who provide it to their clients, including adoptive families and birth parents. It is not a legal case-management tool and does not give legal advice. Everything shown is presented as the attorney's vetted guidance.
 
 ## Why Joy Exists
 
@@ -23,9 +23,9 @@ Joy sits between the two. For families, it turns an intimidating legal process i
 | `joy_attorney_console_final.html` | Attorney console | The attorney's practice view. Includes families at every stage, open invoices, requests waiting for review, conversations that need a decision, per-family expense plans, and quick actions such as adding a family, logging an expense, or scheduling a meeting. |
 | `joy_adoption_companion_v70.html` | Family website builder (8-bit theme) | The family app paired with the website editor, shown in a retro 8-bit game style. Families edit their public adoption website and see a live pixel-art preview as they go, alongside the journey tracker, checklist, and expense views. |
 
-## The Family Websites
+## The Family's Website
 
-A core part of Joy is the public website each adoptive family builds to introduce themselves to prospective birth parents. In private adoption, this "family profile" is often the first impression a birth parent has, so it matters that families can present themselves warmly and honestly without needing any design or technical skill.
+A core part of Joy is the public website each adoptive family builds to introduce themselves to prospective birth parents. In private adoption, this family profile is often the first impression a birth parent has, so it matters that families can present themselves warmly and honestly without needing any design or technical skill.
 
 Joy handles this with a built-in website builder. Families edit sections like "who we are" and "home and neighborhood," and a live preview shows exactly how the page will look as they type. The builder in `joy_adoption_companion_v70.html` uses a playful 8-bit, pixel-art game aesthetic, making the act of building an intimidating profile feel approachable and even fun rather than clinical. Back in the family portal, an activity panel shows how the finished site is performing, including which sections people reach and where they click, so families and their attorney can see how the profile is landing.
 
