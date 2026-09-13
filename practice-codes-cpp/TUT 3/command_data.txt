@@ -1,0 +1,1000 @@
+63431	FIXQO	1743818722	clear	1	clear
+63432	FIXQO	1743818724	g++	8	g++ -std=c++17 main.cpp TimeSeries.cpp Country.cpp CountrySet.cpp DataTree.cpp Graph.cpp
+63433	FIXQO	1743819676	clear	1	clear
+63434	FIXQO	1743819693	tar	8	tar -cvzf FIXQO_p5.tar.gz *.h *.cpp *.tpp Makefile *.txt
+63435	XKOFV	1742785417	cd	2	cd project_5
+63436	XKOFV	1742785420	make	1	make
+63437	XKOFV	1742785445	valgrind	2	valgrind ./a.out
+63438	EHTJT	1743452340	g++	5	g++ TimeSeries.cpp main.cpp -o a.out
+63439	EHTJT	1743452355	./a.out	1	./a.out
+63440	EHTJT	1743452417	cd	2	cd project_5
+63441	EHTJT	1743452436	rm	2	rm *.tar.gz
+63442	EHTJT	1743452438	ls	1	ls
+63443	EHTJT	1743452448	tar	4	tar -cvzf EHTJT_p5.tar.gz *
+63444	EHTJT	1743452450	ls	1	ls
+63445	EHTJT	1743470950	g++	5	g++ TimeSeries.cpp main.cpp -o a.out
+63446	EHTJT	1743470955	./a.out	1	./a.out
+63447	EHTJT	1743470982	g++	5	g++ TimeSeries.cpp main.cpp -o a.out
+63448	EHTJT	1743470985	./a.out	1	./a.out
+63449	EHTJT	1743471756	g++	5	g++ TimeSeries.cpp main.cpp -o a.out
+63450	EHTJT	1743471758	./a.out	1	./a.out
+63451	EHTJT	1743472173	g++	5	g++ TimeSeries.cpp main.cpp -o a.out
+63452	EHTJT	1743472175	./a.out	1	./a.out
+63453	EHTJT	1743472195	g++	5	g++ TimeSeries.cpp main.cpp -o a.out
+63454	EHTJT	1743472197	./a.out	1	./a.out
+63455	EHTJT	1743473690	g++	5	g++ TimeSeries.cpp main.cpp -o a.out
+63456	EHTJT	1743473693	./a.out	1	./a.out
+63457	EHTJT	1743473778	g++	5	g++ TimeSeries.cpp main.cpp -o a.out
+63458	EHTJT	1743473781	./a.out	1	./a.out
+63459	EHTJT	1743474319	g++	5	g++ TimeSeries.cpp main.cpp -o a.out
+63460	EHTJT	1743474321	./a.out	1	./a.out
+63461	EHTJT	1743469468	cd	2	cd project_5
+63462	EHTJT	1743469474	rm	2	rm *.tar.gz
+63463	EHTJT	1743469480	tar	4	tar -cvzf EHTJT_p5.tar.gz *
+63464	EHTJT	1743469483	ls	1	ls
+63465	EHTJT	1743469874	rm	2	rm *.tar.gz
+63466	EHTJT	1743469881	tar	4	tar -cvzf EHTJT_p5.tar.gz *
+63467	EHTJT	1743469884	ls	1	ls
+63468	EHTJT	1743470289	rm	2	rm *.tar.gz
+63469	EHTJT	1743470299	tar	4	tar -cvzf EHTJT_p5.tar.gz *
+63470	EHTJT	1743470307	ls	1	ls
+63471	EHTJT	1743471835	rm	2	rm *.tar.gz
+63472	EHTJT	1743471841	tar	4	tar -cvzf EHTJT_p5.tar.gz *
+63473	EHTJT	1743471842	ls	1	ls
+63474	EHTJT	1743474405	rm	2	rm *.tar.gz
+63475	EHTJT	1743474412	tar	4	tar -cvzf EHTJT_p5.tar.gz *
+63476	EHTJT	1743474414	ls	1	ls
+63477	EHTJT	1743481244	g++	5	g++ TimeSeries.cpp main.cpp -o a.out
+63478	EHTJT	1743481121	cd	2	cd project_5
+63479	EHTJT	1743481145	rm	2	rm *.tar.gz
+63480	EHTJT	1743481157	tar	4	tar -cvzf EHTJT_p5.tar.gz *
+63481	EHTJT	1743481856	rm	2	rm *.tar.gz
+63482	EHTJT	1743481866	tar	4	tar -cvzf EHTJT_p5.tar.gz *
+63483	SGHNH	1742838197	cd	2	cd project5
+63484	SGHNH	1742838201	cd	2	cd Submission
+63485	SGHNH	1742838215	make	1	make
+63486	SGHNH	1742838222	valgrind	2	valgrind ./a.out
+63487	SGHNH	1742838249	tar	4	tar -czvf SGHNH_p5.tar.gz *
+63488	SGHNH	1742838251	ls	1	ls
+63489	SGHNH	1742838989	make	1	make
+63490	SGHNH	1742838993	./a.out	1	./a.out
+63491	SGHNH	1742839013	tar	4	tar -czvf SGHNH_p5.tar.gz *
+63492	SGHNH	1743642655	ls	1	ls
+63493	SGHNH	1743642657	cd	2	cd project5
+63494	SGHNH	1743642658	ls	1	ls
+63495	SGHNH	1743642660	cd	2	cd Submission
+63496	SGHNH	1743642663	make	1	make
+63497	SGHNH	1743642668	./a.out	1	./a.out
+63498	VATYI	1743553657	cd	2	cd ./p5
+63499	VATYI	1743553659	make	1	make
+63500	VATYI	1743553670	tar	4	tar -cvzf VATYI_p5.tar.gz *
+63501	VATYI	1743556802	cd	2	cd p5
+63502	VATYI	1743556902	make	1	make
+63503	VATYI	1743556923	valgrind	4	valgrind --leak-check=full -s ./a.out
+63504	VATYI	1743559433	make	1	make
+63505	VATYI	1743559438	tar	4	tar -cvzf VATYI_p5.tar.gz *
+63506	VATYI	1743561515	make	1	make
+63507	VATYI	1743561518	tar	4	tar -cvzf VATYI_p5.tar.gz *
+63508	VATYI	1743562931	make	1	make
+63509	VATYI	1743562997	tar	4	tar -cvzf VATYI_p5.tar.gz *
+63510	VATYI	1743658061	cd	2	cd p5
+63511	VATYI	1743658064	make	1	make
+63512	VATYI	1743658068	tar	4	tar -cvzf VATYI_p5.tar.gz *
+63513	VATYI	1743658301	make	1	make
+63514	VATYI	1743658304	tar	4	tar -cvzf VATYI_p5.tar.gz *
+63515	VFNAM	1743707271	cd	2	cd project_5
+63516	VFNAM	1743707274	make	1	make
+63517	VFNAM	1743709465	cd	2	cd project_5
+63518	VFNAM	1743709467	make	1	make
+63519	VFNAM	1743729274	cd	2	cd project_5
+63520	VFNAM	1743729276	make	1	make
+63521	VFNAM	1743763488	cd	2	cd project_5
+63522	VFNAM	1743763489	make	1	make
+63523	VFNAM	1743764110	valgrind	3	valgrind --leak-check=full ./a.out
+63524	VFNAM	1743764196	make	1	make
+63525	VFNAM	1743764267	valgrind	3	valgrind --leak-check=full ./a.out
+63526	VFNAM	1743764384	make	1	make
+63527	VFNAM	1743764387	valgrind	3	valgrind --leak-check=full ./a.out
+63528	VFNAM	1743764476	make	1	make
+63529	VFNAM	1743764550	valgrind	3	valgrind --leak-check=full ./a.out
+63530	VFNAM	1743764841	make	1	make
+63531	VFNAM	1743764844	valgrind	3	valgrind --leak-check=full ./a.out
+63532	VFNAM	1743765274	make	1	make
+63533	VFNAM	1743765278	valgrind	3	valgrind --leak-check=full ./a.out
+63534	VFNAM	1743765936	make	1	make
+63535	VFNAM	1743768616	valgrind	3	valgrind --leak-check=full ./a.out
+63536	VFNAM	1743768778	make	1	make
+63537	VFNAM	1743768780	valgrind	3	valgrind --leak-check=full ./a.out
+63538	VFNAM	1743768958	make	1	make
+63539	VFNAM	1743768960	valgrind	3	valgrind --leak-check=full ./a.out
+63540	VFNAM	1743770409	make	1	make
+63541	VFNAM	1743770411	valgrind	3	valgrind --leak-check=full ./a.out
+63542	VFNAM	1743770447	make	1	make
+63543	VFNAM	1743770449	valgrind	3	valgrind --leak-check=full ./a.out
+63544	VFNAM	1743770858	make	1	make
+63545	VFNAM	1743770861	valgrind	3	valgrind --leak-check=full ./a.out
+63546	VFNAM	1743777330	make	1	make
+63547	VFNAM	1743778881	valgrind	3	valgrind --leak-check=full ./a.out
+63548	VFNAM	1743780062	make	1	make
+63549	VFNAM	1743780066	valgrind	3	valgrind --leak-check=full ./a.out
+63550	VFNAM	1743780323	tar	4	tar -cvzf VFNAM_p5.tar.gz *
+63551	VFNAM	1743794424	make	1	make
+63552	VFNAM	1743794471	tar	4	tar -cvzf VFNAM_p5.tar.gz *
+63553	VFNAM	1743794765	make	1	make
+63554	VFNAM	1743794809	tar	4	tar -cvzf VFNAM_p5.tar.gz *
+63555	GWDAC	1743378840	make	1	make
+63556	GWDAC	1743378843	cd	2	cd project5
+63557	GWDAC	1743378844	make	1	make
+63558	GWDAC	1743378928	valgrind	6	valgrind --leak-check=full -s ./a.out < test01.in
+63559	GWDAC	1743379206	make	1	make
+63560	GWDAC	1743379213	valgrind	6	valgrind --leak-check=full -s ./a.out < test01.in
+63561	GWDAC	1743379611	make	1	make
+63562	GWDAC	1743379813	valgrind	6	valgrind --leak-check=full -s ./a.out < test01.in
+63563	GWDAC	1743380527	make	1	make
+63564	GWDAC	1743380634	valgrind	6	valgrind --leak-check=full -s ./a.out < test01.in
+63565	GWDAC	1743380929	make	1	make
+63566	GWDAC	1743380947	==97312==	3	==97312== HEAP SUMMARY:
+63567	GWDAC	1743380948	==97312==	10	==97312== in use at exit: 8,512 bytes in 266 blocks
+63568	GWDAC	1743380954	valgrind	6	valgrind --leak-check=full -s ./a.out < test01.in
+63569	GWDAC	1743381041	ls	1	ls
+63570	GWDAC	1743381045	tar	4	tar -cvzf GWDAC_p5.tar.gz *
+63571	GWDAC	1743435772	cd	2	cd project5
+63572	GWDAC	1743435789	tar	4	tar -cvzf GWDAC_p5.tar.gz *
+63573	GWDAC	1743435792	ls	1	ls
+63574	GWDAC	1743612034	cd	2	cd project
+63575	GWDAC	1743612036	cd	2	cd project5
+63576	GWDAC	1743612037	ls	1	ls
+63577	GWDAC	1743612856	tar	4	tar -cvzf GWDAC_p5.tar.gz *
+63578	GWDAC	1743614248	ls	1	ls
+63579	GWDAC	1743614254	tar	4	tar -cvzf GWDAC_p5.tar.gz *
+63580	GWDAC	1743614260	ls	1	ls
+63581	GWDAC	1743614294	tar	4	tar -cvzf GWDAC_p5.tar.gz *
+63582	GWDAC	1743614472	ls	1	ls
+63583	GWDAC	1743614504	make	1	make
+63584	GWDAC	1743614656	tar	4	tar -cvzf GWDAC_p5.tar.gz *
+63585	KSETM	1742854776	cd	2	cd Project5
+63586	KSETM	1742855542	make	1	make
+63587	KSETM	1742855546	./a.out	1	./a.out
+63588	KSETM	1742855758	make	1	make
+63589	KSETM	1742855771	./a.out	1	./a.out
+63590	KSETM	1742856990	cd	2	cd Project5
+63591	KSETM	1742856992	make	1	make
+63592	KSETM	1742856996	./a.out	1	./a.out
+63593	KSETM	1742857098	rm	2	rm lab2_multidata.csv
+63594	KSETM	1742857105	rm	2	rm a.out
+63595	KSETM	1742857112	tar	4	tar -cvzf KSETM_p5.tar.gz *
+63596	KSETM	1742858522	make	1	make
+63597	KSETM	1742858528	./a.out	1	./a.out
+63598	KSETM	1742858839	make	1	make
+63599	KSETM	1742858841	./a.out	1	./a.out
+63600	KSETM	1742858901	make	1	make
+63601	KSETM	1742858904	./a.out	1	./a.out
+63602	KSETM	1742858956	rm	2	rm lab2_multidata.csv
+63603	KSETM	1742858961	rm	2	rm a.out
+63604	KSETM	1742858981	tar	4	tar -cvzf KSETM_p5.tar.gz *
+63605	KSETM	1742859077	make	1	make
+63606	KSETM	1742859081	nano	2	nano test.txt
+63607	KSETM	1742859112	valgrind	4	valgrind ./a.out < test.txt
+63608	KSETM	1742859145	valgrind	5	valgrind --leak-check=ful ./a.out < test.txt
+63609	KSETM	1742859152	valgrind	5	valgrind --leak-check=full ./a.out < test.txt
+63610	KSETM	1742859473	make	1	make
+63611	KSETM	1742859476	valgrind	5	valgrind --leak-check=full ./a.out < test.txt
+63612	KSETM	1742859570	nano	2	nano test.txt
+63613	KSETM	1742859690	valgrind	5	valgrind --leak-check=full ./a.out < test.txt
+63614	KSETM	1742859710	make	1	make
+63615	KSETM	1742859713	valgrind	5	valgrind --leak-check=full ./a.out < test.txt
+63616	KSETM	1742859812	nano	2	nano test.txt
+63617	KSETM	1742859873	make	1	make
+63618	KSETM	1742859876	./a.out	1	./a.out
+63619	KSETM	1742859923	nano	2	nano test.txt
+63620	KSETM	1742859947	make	1	make
+63621	KSETM	1742859952	valgrind	5	valgrind --leak-check=full ./a.out < test.txt
+63622	KSETM	1742860058	cd	2	cd ~/Project4
+63623	KSETM	1742860059	make	1	make
+63624	KSETM	1742860063	nano	2	nano test.txt
+63625	KSETM	1742860080	make	1	make
+63626	KSETM	1742860084	valgrind	5	valgrind --leak-check=full ./a.out < test.txt
+63627	KSETM	1742860270	make	1	make
+63628	KSETM	1742860276	cd	2	cd ~/Project5
+63629	KSETM	1742860278	make	1	make
+63630	KSETM	1742860282	valgrind	5	valgrind --leak-check=full ./a.out < test.txt
+63631	KSETM	1742860319	make	1	make
+63632	KSETM	1742860322	valgrind	5	valgrind --leak-check=full ./a.out < test.txt
+63633	KSETM	1742863323	tar	4	tar -cvzf KSETM_p5.tar.gz *
+63634	KSETM	1742945458	cd	2	cd Project5
+63635	KSETM	1742945460	make	1	make
+63636	KSETM	1742945522	./a.out	1	./a.out
+63637	KSETM	1742945845	make	1	make
+63638	KSETM	1742945848	./a.out	1	./a.out
+63639	KSETM	1742946419	make	1	make
+63640	KSETM	1742946448	./a.out	1	./a.out
+63641	KSETM	1742946546	MAKE	1	MAKE
+63642	KSETM	1742946549	make	1	make
+63643	KSETM	1742946553	./a.out	1	./a.out
+63644	KSETM	1742946705	make	1	make
+63645	KSETM	1742946708	./a.out	1	./a.out
+63646	KSETM	1742947093	make	1	make
+63647	KSETM	1742947097	./a.out	1	./a.out
+63648	KSETM	1742947700	make	1	make
+63649	KSETM	1742947704	./a.out	1	./a.out
+63650	KSETM	1742949141	tar	4	tar -cvzf KSETM_p5.tar.gz *
+63651	KSETM	1743026378	cd	2	cd Project5
+63652	KSETM	1743026380	make	1	make
+63653	KSETM	1743026385	./a.out	1	./a.out
+63654	KSETM	1743027645	cd	2	cd PROJECT5
+63655	KSETM	1743027649	make	1	make
+63656	KSETM	1743027672	./a.out	1	./a.out
+63657	KSETM	1743028489	make	1	make
+63658	KSETM	1743028493	./a.out	1	./a.out
+63659	KSETM	1743028096	cd	2	cd Project5
+63660	KSETM	1743028097	make	1	make
+63661	KSETM	1743028106	./a.out	1	./a.out
+63662	KSETM	1743028380	make	1	make
+63663	KSETM	1743028385	./a.out	1	./a.out
+63664	KSETM	1743099278	make	1	make
+63665	KSETM	1743099284	./a.out	1	./a.out
+63666	KSETM	1743099300	cd	2	cd Project5
+63667	KSETM	1743099302	make	1	make
+63668	KSETM	1743099305	./a.out	1	./a.out
+63669	KSETM	1743099668	make	1	make
+63670	KSETM	1743099726	EXIT	1	EXIT
+63671	KSETM	1743099728	make	1	make
+63672	KSETM	1743099731	./a.out	1	./a.out
+63673	KSETM	1743099844	make	1	make
+63674	KSETM	1743099870	./a.out	1	./a.out
+63675	KSETM	1743099970	cd	2	cd ~/Project4
+63676	KSETM	1743099979	make	1	make
+63677	KSETM	1743099998	./a.out	1	./a.out
+63678	KSETM	1743100062	cd	2	cd ~/Project3
+63679	KSETM	1743100065	make	1	make
+63680	KSETM	1743100068	./a.out	1	./a.out
+63681	KSETM	1743100484	cd	2	cd ~/Project4
+63682	KSETM	1743100486	make	1	make
+63683	KSETM	1743100488	./a.out	1	./a.out
+63684	KSETM	1743100804	cd	2	cd ~/Project5
+63685	KSETM	1743100807	make	1	make
+63686	KSETM	1743100812	./a.out	1	./a.out
+63687	KSETM	1743100890	cd	2	cd ~/Project4
+63688	KSETM	1743100893	make	1	make
+63689	KSETM	1743100896	./a.out	1	./a.out
+63690	KSETM	1743101272	make	1	make
+63691	KSETM	1743101279	cd	2	cd ~/Project5
+63692	KSETM	1743101281	make	1	make
+63693	KSETM	1743101287	./a.out	1	./a.out
+63694	KSETM	1743101353	make	1	make
+63695	KSETM	1743101356	./a.out	1	./a.out
+63696	KSETM	1743101393	make	1	make
+63697	KSETM	1743101395	./a.out	1	./a.out
+63698	KSETM	1743101439	make	1	make
+63699	KSETM	1743101441	./a.out	1	./a.out
+63700	KSETM	1743101473	cd	2	cd ~/Project3
+63701	KSETM	1743101476	make	1	make
+63702	KSETM	1743101478	./a.out	1	./a.out
+63703	KSETM	1743101543	cd	2	cd ~/Project5
+63704	KSETM	1743101629	tar	4	tar -cvzf KSETM_p5.tar.gz *
+63705	KSETM	1743634573	cd	2	cd Project5
+63706	KSETM	1743634576	make	1	make
+63707	KSETM	1743634579	a.out	1	a.out
+63708	KSETM	1743634582	./a.out	1	./a.out
+63709	KSETM	1743643515	tar	4	tar -cvzf KSETM_p5.tar.gz *
+63710	QCHHS	1742985884	cd	2	cd project_2
+63711	QCHHS	1742985887	code	2	code .
+63712	QCHHS	1742995075	make	1	make
+63713	QCHHS	1742995142	tar	4	tar -cvzf QCHHS_p3.tar.gz *
+63714	QCHHS	1742996834	ls	1	ls
+63715	QCHHS	1742996837	rm	2	rm a.out
+63716	QCHHS	1742996844	rm	2	rm QCHHS_p3.tar.gz
+63717	QCHHS	1742996852	tar	4	tar -cvzf QCHHS_p3.tar.gz *
+63718	QCHHS	1742997237	make	1	make
+63719	QCHHS	1742997249	rm	2	rm a.out
+63720	QCHHS	1742997261	rm	2	rm QCHHS_p3.tar.gz
+63721	QCHHS	1742997263	ls	1	ls
+63722	QCHHS	1742997278	tar	4	tar -cvzf QCHHS_p3.tar.gz *
+63723	QCHHS	1742997282	ls	1	ls
+63724	QCHHS	1742998905	make	1	make
+63725	QCHHS	1742998912	rm	2	rm a.out
+63726	QCHHS	1742998924	rm	2	rm QCHHS_p3.tar.gz
+63727	QCHHS	1742998937	tar	4	tar -cvzf QCHHS_p3.tar.gz *
+63728	QCHHS	1743061944	make	1	make
+63729	QCHHS	1743061949	./	2	./ a.out
+63730	QCHHS	1743061956	./a.out	1	./a.out
+63731	QCHHS	1743063133	make	1	make
+63732	QCHHS	1743063139	./a.out	1	./a.out
+63733	QCHHS	1743063333	make	1	make
+63734	QCHHS	1743063351	./a.out	1	./a.out
+63735	QCHHS	1743063558	make	1	make
+63736	QCHHS	1743063563	./a.out	1	./a.out
+63737	QCHHS	1743063929	make	1	make
+63738	QCHHS	1743063934	./a.out	1	./a.out
+63739	QCHHS	1743064046	make	1	make
+63740	QCHHS	1743064052	rm	2	rm a.out
+63741	QCHHS	1743064055	ls	1	ls
+63742	QCHHS	1743064062	rm	2	rm QCHHS_p3.tar.gz
+63743	QCHHS	1743064079	tar	4	tar -cvzf QCHHS_p3.tar.gz *
+63744	QCHHS	1743064249	make	1	make
+63745	QCHHS	1743064254	./a.out	1	./a.out
+63746	QCHHS	1743065020	make	1	make
+63747	QCHHS	1743065024	./a.out	1	./a.out
+63748	QCHHS	1743066003	make	1	make
+63749	QCHHS	1743066137	./a.out	1	./a.out
+63750	QCHHS	1743066780	makemake	1	makemake
+63751	QCHHS	1743066797	make	1	make
+63752	QCHHS	1743066803	./a.out	1	./a.out
+63753	QCHHS	1743070053	make	1	make
+63754	QCHHS	1743070058	./a.out	1	./a.out
+63755	QCHHS	1743071029	make	1	make
+63756	QCHHS	1743071034	./a.out	1	./a.out
+63757	QCHHS	1743071437	make	1	make
+63758	QCHHS	1743071440	./a.out	1	./a.out
+63759	QCHHS	1743072112	make	1	make
+63760	QCHHS	1743072116	./a.out	1	./a.out
+63761	QCHHS	1743072913	make	1	make
+63762	QCHHS	1743072918	./a.out	1	./a.out
+63763	QCHHS	1743073022	LS	1	LS
+63764	QCHHS	1743073026	ls	1	ls
+63765	QCHHS	1743073031	rm	2	rm a.out
+63766	QCHHS	1743073040	rm	2	rm QCHHS_p3.tar.gz
+63767	QCHHS	1743073048	tar	4	tar -cvzf QCHHS_p3.tar.gz *
+63768	QCHHS	1743073545	make	1	make
+63769	QCHHS	1743073551	./a.out	1	./a.out
+63770	QCHHS	1743073961	make	1	make
+63771	QCHHS	1743073965	./a.out	1	./a.out
+63772	QCHHS	1743163650	make	1	make
+63773	QCHHS	1743163654	./a.out	1	./a.out
+63774	QCHHS	1743163879	make	1	make
+63775	QCHHS	1743163883	./a.out	1	./a.out
+63776	QCHHS	1743164119	make	1	make
+63777	QCHHS	1743164125	./a.out	1	./a.out
+63778	QCHHS	1743164307	make	1	make
+63779	QCHHS	1743164310	./a.out	1	./a.out
+63780	QCHHS	1743165084	make	1	make
+63781	QCHHS	1743165087	./a.out	1	./a.out
+63782	QCHHS	1743165654	make	1	make
+63783	QCHHS	1743165685	./a.out	1	./a.out
+63784	QCHHS	1743165963	make	1	make
+63785	QCHHS	1743165966	./a.out	1	./a.out
+63786	QCHHS	1743166115	make	1	make
+63787	QCHHS	1743166120	./a.out	1	./a.out
+63788	QCHHS	1743166305	make	1	make
+63789	QCHHS	1743166309	./a.out	1	./a.out
+63790	QCHHS	1743166760	make	1	make
+63791	QCHHS	1743166765	./a.out	1	./a.out
+63792	QCHHS	1743167750	make	1	make
+63793	QCHHS	1743167755	./a.out	1	./a.out
+63794	QCHHS	1743167921	make	1	make
+63795	QCHHS	1743167925	ls	1	ls
+63796	QCHHS	1743167929	rm	2	rm a.out
+63797	QCHHS	1743167950	rm	2	rm QCHHS_p3.tar.gz
+63798	QCHHS	1743167959	tar	4	tar -cvzf QCHHS_p3.tar.gz *
+63799	QCHHS	1743168647	make	1	make
+63800	QCHHS	1743168652	rm	2	rm a.out
+63801	QCHHS	1743168654	ls	1	ls
+63802	QCHHS	1743168660	rm	2	rm QCHHS_p3.tar.gz
+63803	QCHHS	1743168671	tar	4	tar -cvzf QCHHS_p3.tar.gz *
+63804	QCHHS	1743241597	make	1	make
+63805	QCHHS	1743241657	./a.out	1	./a.out
+63806	QCHHS	1743241913	ls	1	ls
+63807	QCHHS	1743241924	make	1	make
+63808	QCHHS	1743241928	./a.out	1	./a.out
+63809	QCHHS	1743242217	ls	1	ls
+63810	QCHHS	1743242221	rm	2	rm a.out
+63811	QCHHS	1743242228	rm	2	rm QCHHS_p4.tar.gz
+63812	QCHHS	1743242241	tar	4	tar -cvzf QCHHS_p4.tar.gz *
+63813	QCHHS	1743437661	ls	1	ls
+63814	QCHHS	1743437672	mkdir	2	mkdir project_5
+63815	QCHHS	1743437676	ls	1	ls
+63816	QCHHS	1743437689	cd	2	cd project_5
+63817	QCHHS	1743437696	code	2	code .
+63818	QCHHS	1743437773	ls	1	ls
+63819	QCHHS	1743437867	rm	2	rm QCHHS_p3.tar.gz
+63820	QCHHS	1743438954	make	1	make
+63821	QCHHS	1743439002	tar	4	tar -cvzf QCHHS_p5.tar.gz *
+63822	QCHHS	1743439045	rm	2	rm a.out
+63823	QCHHS	1743439046	ls	1	ls
+63824	QCHHS	1743439055	rm	2	rm QCHHS_p5.tar.gz
+63825	QCHHS	1743439063	tar	4	tar -cvzf QCHHS_p5.tar.gz *
+63826	QCHHS	1743439067	ls	1	ls
+63827	QCHHS	1743439902	make	1	make
+63828	QCHHS	1743439909	./a.out	1	./a.out
+63829	QCHHS	1743440265	ls	1	ls
+63830	QCHHS	1743440280	rm	2	rm QCHHS_design_p3.txt
+63831	QCHHS	1743440284	rm	2	rm a.out
+63832	QCHHS	1743440286	ls	1	ls
+63833	QCHHS	1743440295	rm	2	rm QCHHS_p5.tar.gz
+63834	QCHHS	1743440307	tar	4	tar -cvzf QCHHS_p5.tar.gz *
+63835	QCHHS	1743684750	make	1	make
+63836	QCHHS	1743684754	./a.out	1	./a.out
+63837	QCHHS	1743685325	make	1	make
+63838	QCHHS	1743685328	./a,	1	./a,
+63839	QCHHS	1743685334	./a.out	1	./a.out
+63840	QCHHS	1743685430	ls	1	ls
+63841	QCHHS	1743685435	rm	2	rm a.out
+63842	QCHHS	1743685445	rm	2	rm QCHHS_p5.tar.gz
+63843	QCHHS	1743685447	ls	1	ls
+63844	QCHHS	1743685457	tar	4	tar -cvzf QCHHS_p5.tar.gz *
+63845	QCHHS	1743685459	ls	1	ls
+63846	QCHHS	1743772395	make	1	make
+63847	QCHHS	1743772401	ls	1	ls
+63848	QCHHS	1743772407	rm	2	rm a.out
+63849	QCHHS	1743772414	rm	2	rm QCHHS_p5.tar.gz
+63850	QCHHS	1743772417	ls	1	ls
+63851	QCHHS	1743772424	tar	4	tar -cvzf QCHHS_p5.tar.gz *
+63852	QCHHS	1743778670	make	1	make
+63853	QCHHS	1743778677	ls	1	ls
+63854	QCHHS	1743778681	rm	2	rm a.out
+63855	QCHHS	1743778687	rm	2	rm QCHHS_p5.tar.gz
+63856	QCHHS	1743778690	ls	1	ls
+63857	QCHHS	1743778696	tar	4	tar -cvzf QCHHS_p5.tar.gz *
+63858	BLGSD	1743476428	cd	2	cd project5
+63859	BLGSD	1743476429	ls	1	ls
+63860	BLGSD	1743476434	tar	4	tar -cvzf BLGSD_p5.tar.gz *
+63861	BLGSD	1743521749	ls	1	ls
+63862	BLGSD	1743521753	cd	2	cd project5
+63863	BLGSD	1743521759	tar	4	tar -cvzf BLGSD_p5.tar.gz *
+63864	BLGSD	1743609746	cd	2	cd project5
+63865	BLGSD	1743609747	g++	5	g++ -o tpas -std=c++98 turbopascal.cpp
+63866	BLGSD	1743609749	tar	4	tar -cvzf BLGSD_p5.tar.gz *
+63867	BLGSD	1743798607	cd	2	cd project5
+63868	BLGSD	1743798609	ls	1	ls
+63869	BLGSD	1743798611	tar	4	tar -cvzf BLGSD_p5.tar.gz *
+63870	VWFQL	1743728622	make	1	make
+63871	VWFQL	1743728628	tar	4	tar -cvzf VWFQL_p4.tar.gz *
+63872	VWFQL	1743728631	ls	1	ls
+63873	VWFQL	1743728758	tar	4	tar -cvzf VWFQL_p5.tar.gz *
+63874	VWFQL	1743728759	ls	1	ls
+63875	GPDZX	1743532377	cd	1	cd
+63876	GPDZX	1743532378	ls	1	ls
+63877	GPDZX	1743532382	cd	2	cd Project_3
+63878	GPDZX	1743532384	ls	1	ls
+63879	GPDZX	1743532404	tar	4	tar -cvzf GPDZX_p3.tar.gz *
+63880	GPDZX	1743532406	ls	1	ls
+63881	GPDZX	1743804717	cd	1	cd
+63882	GPDZX	1743804718	ls	1	ls
+63883	GPDZX	1743804740	cd	2	cd Project_5
+63884	GPDZX	1743804741	ls	1	ls
+63885	GPDZX	1743804806	tar	4	tar -cvzf GPDZX_p5.tar.gz *
+63886	GPDZX	1743804808	ls	1	ls
+63887	GPDZX	1743804894	rm	2	rm GPDZX_p54.tar.gz
+63888	GPDZX	1743804898	rm	2	rm GPDZX_p5.tar.gz
+63889	GPDZX	1743804899	ls	1	ls
+63890	GPDZX	1743804902	tar	4	tar -cvzf GPDZX_p5.tar.gz *
+63891	GPDZX	1743804904	ls	1	ls
+63892	GPDZX	1743805023	rm	2	rm GPDZX_p5.tar.gz
+63893	GPDZX	1743805025	tar	4	tar -cvzf GPDZX_p5.tar.gz *
+63894	GPDZX	1743805027	ls	1	ls
+63895	GPDZX	1743805078	rm	2	rm GPDZX_p5.tar.gz
+63896	GPDZX	1743805079	ls	1	ls
+63897	GPDZX	1743805083	tar	4	tar -cvzf GPDZX_p5.tar.gz *
+63898	GPDZX	1743805084	ls	1	ls
+63899	GPDZX	1743816333	rm	2	rm GPDZX_p5.tar.gz
+63900	GPDZX	1743816341	cd	2	cd Project_5
+63901	GPDZX	1743816342	ls	1	ls
+63902	GPDZX	1743816345	rm	2	rm GPDZX_p5.tar.gz
+63903	GPDZX	1743816374	tar	4	tar -cvzf GPDZX_p5.tar.gz *
+63904	GPDZX	1743816377	ls	1	ls
+63905	YZORX	1743444543	make	1	make
+63906	YZORX	1743444800	./a.out	1	./a.out
+63907	YZORX	1743698774	make	1	make
+63908	YZORX	1743700900	./a.out	1	./a.out
+63909	YZORX	1743701355	make	1	make
+63910	YZORX	1743701362	./a.out	1	./a.out
+63911	YZORX	1743701652	gdb	1	gdb
+63912	YZORX	1743704716	make	1	make
+63913	YZORX	1743704722	./a.out	1	./a.out
+63914	YZORX	1743704769	gdb	1	gdb
+63915	YZORX	1743704858	make	1	make
+63916	YZORX	1743704870	./a.out	1	./a.out
+63917	YZORX	1743705002	mkae	1	mkae
+63918	YZORX	1743705004	make	1	make
+63919	YZORX	1743705032	./a.out	1	./a.out
+63920	YZORX	1743705087	make	1	make
+63921	YZORX	1743705092	./a.out	1	./a.out
+63922	YZORX	1743785958	make	1	make
+63923	YZORX	1743785966	./a.out	1	./a.out
+63924	YZORX	1743786071	gdb	1	gdb
+63925	YZORX	1743788738	make	1	make
+63926	YZORX	1743788748	./a.out	1	./a.out
+63927	YZORX	1743788831	make	1	make
+63928	YZORX	1743788848	./a.out	1	./a.out
+63929	YZORX	1743789246	cd	2	cd project5
+63930	YZORX	1743789260	ls	2	ls -l
+63931	YZORX	1743789357	mkdir	2	mkdir turnin
+63932	YZORX	1743789363	cd	2	cd turnin
+63933	YZORX	1743789420	tar	3	tar -xzvf ../YZORX_p5.tar.gz
+63934	YZORX	1743789427	mkae	1	mkae
+63935	YZORX	1743789429	make	1	make
+63936	YZORX	1743792836	mak	1	mak
+63937	YZORX	1743792837	make	1	make
+63938	YZORX	1743792844	./a.our	1	./a.our
+63939	YZORX	1743792850	./a.out	1	./a.out
+63940	YZORX	1743793013	make	1	make
+63941	YZORX	1743793019	./a.out	1	./a.out
+63942	YZORX	1743793124	make	1	make
+63943	YZORX	1743793132	LOAD	2	LOAD lab2_multidata.csv
+63944	YZORX	1743793135	./a.out	1	./a.out
+63945	YZORX	1743793413	gdb	1	gdb
+63946	YZORX	1743793572	make	1	make
+63947	YZORX	1743793580	gdb	1	gdb
+63948	YZORX	1743793890	make	1	make
+63949	YZORX	1743793952	./a.out	1	./a.out
+63950	YZORX	1743793964	gdb	1	gdb
+63951	YZORX	1743788563	cd	2	cd ECE250
+63952	YZORX	1743788569	cd	2	cd project5
+63953	YZORX	1743788617	tar	4	tar -cvzf YZORX_p5.tat.gz *
+63954	YZORX	1743788675	tar	4	tar -cvzf YZORX_p5.tar.gz *
+63955	YZORX	1743794405	make	1	make
+63956	YZORX	1743794412	./a.out	1	./a.out
+63957	GXPNM	1742928232	cd	2	cd project_5
+63958	GXPNM	1742928233	ls	1	ls
+63959	GXPNM	1742928236	tar	4	tar -cvzf GXPNM_p5.tar.gz *
+63960	GXPNM	1742928237	ls	1	ls
+63961	GXPNM	1742948757	cd	2	cd project_5
+63962	GXPNM	1742948758	ls	1	ls
+63963	GXPNM	1742948769	tar	4	tar -cvzf GXPNM_p5.tar.gz *
+63964	GXPNM	1742948770	ls	1	ls
+63965	GXPNM	1742949005	logout	1	logout
+63966	GXPNM	1742942966	cd	2	cd project_5
+63967	GXPNM	1742942967	ls	1	ls
+63968	GXPNM	1742942971	tar	4	tar -cvzf GXPNM_p5.tar.gz *
+63969	GXPNM	1742942972	ls	1	ls
+63970	WHUDO	1743434527	cd	1	cd
+63971	WHUDO	1743434530	ls	1	ls
+63972	WHUDO	1743434538	mkdir	2	mkdir project_five
+63973	WHUDO	1743434540	ls	1	ls
+63974	WHUDO	1743434544	cd	2	cd project_five
+63975	WHUDO	1743434545	ls	1	ls
+63976	WHUDO	1743434592	tar	4	tar -cvzf WHUDO_p5.tar.gz *
+63977	WHUDO	1743434594	ls	1	ls
+63978	WHUDO	1743438370	tar	4	tar -cvzf WHUDO_p5.tar.gz *
+63979	WHUDO	1743438729	ls	1	ls
+63980	WHUDO	1743438733	tar	4	tar -cvzf WHUDO_p5.tar.gz *
+63981	WHUDO	1743439113	ls	1	ls
+63982	WHUDO	1743439299	make	1	make
+63983	WHUDO	1743439397	tar	4	tar -cvzf WHUDO_p5.tar.gz *
+63984	WHUDO	1743439989	make	1	make
+63985	WHUDO	1743440063	clear	1	clear
+63986	WHUDO	1743440100	tar	4	tar -cvzf WHUDO_p5.tar.gz *
+63987	WHUDO	1743441570	LS	1	LS
+63988	WHUDO	1743441571	ls	1	ls
+63989	WHUDO	1743441575	tar	4	tar -cvzf WHUDO_p5.tar.gz *
+63990	WHUDO	1743804299	cd	2	cd project_five
+63991	WHUDO	1743804568	tar	4	tar -cvzf WHUDO_p5.tar.gz *
+63992	WHUDO	1743804901	LS	1	LS
+63993	WHUDO	1743804903	ls	1	ls
+63994	WHUDO	1743804905	tar	4	tar -cvzf WHUDO_p5.tar.gz *
+63995	WHUDO	1743818522	cd	2	cd project_five
+63996	WHUDO	1743818563	tar	4	tar -cvzf WHUDO_p5.tar.gz *
+63997	UVLJI	1743015219	cd	2	cd project5
+63998	UVLJI	1743015263	tar	4	tar -cvzf UVLJI_p5.tar.gz *
+63999	UVLJI	1743015264	ls	1	ls
+64000	UVLJI	1743015361	cd	2	cd project5
+64001	UVLJI	1743015364	cd	2	cd ..
+64002	UVLJI	1743015368	cd	2	cd project5
+64003	UVLJI	1743015472	exit	1	exit
+64004	UVLJI	1743213842	g++	8	g++ -std=c++17 main.cpp Country.cpp TimeSeries.cpp DataTree.cpp HashTable.cpp Graph.cpp
+64005	UVLJI	1743213851	cd	2	cd project5
+64006	UVLJI	1743213854	g++	8	g++ -std=c++17 main.cpp Country.cpp TimeSeries.cpp DataTree.cpp HashTable.cpp Graph.cpp
+64007	UVLJI	1743213913	./a.out	1	./a.out
+64008	UVLJI	1743214198	tar	4	tar -cvzf UVLJI_p5.tar.gz *
+64009	UVLJI	1743214200	ls	1	ls
+64010	UVLJI	1743214669	tar	4	tar -cvzf UVLJI_p5.tar.gz *
+64011	UVLJI	1743214670	ls	1	ls
+64012	UVLJI	1743215107	tar	4	tar -cvzf UVLJI_p5.tar.gz *
+64013	UVLJI	1743215109	ls	1	ls
+64014	UVLJI	1743215558	exit	1	exit
+64015	UVLJI	1743215882	cd	2	cd project5
+64016	UVLJI	1743297666	g++	8	g++ -std=c++17 main.cpp Country.cpp TimeSeries.cpp DataTree.cpp HashTable.cpp Graph.cpp
+64017	UVLJI	1743297674	./a.out	1	./a.out
+64018	UVLJI	1743300492	cd	2	cd project5
+64019	UVLJI	1743301259	g++	8	g++ -std=c++17 main.cpp Country.cpp TimeSeries.cpp DataTree.cpp LinkedList.cpp Graph.cpp
+64020	UVLJI	1743301283	g++	8	g++ -std=c++17 main.cpp CountryData.cpp TimeSeries.cpp DataTree.cpp LinkedList.cpp Graph.cpp
+64021	UVLJI	1743301289	./a.out	1	./a.out
+64022	UVLJI	1743301800	g++	8	g++ -std=c++17 main.cpp CountryData.cpp TimeSeries.cpp DataTree.cpp LinkedList.cpp Graph.cpp
+64023	UVLJI	1743301804	./a.out	1	./a.out
+64024	UVLJI	1743301878	tar	4	tar -cvzf ONGPO.tar.gz *
+64025	UVLJI	1743301880	ls	1	ls
+64026	UVLJI	1743301967	tar	4	tar -cvzf ONGPO_p5.tar.gz *
+64027	UVLJI	1743301969	ls	1	ls
+64028	UVLJI	1743302275	tar	4	tar -cvzf UVLJI_p5.tar.gz *
+64029	UVLJI	1743302362	exit	1	exit
+64030	XTVVZ	1743796088	tar	4	tar -cvzf XTVVZ_p5.tar.gz *
+64031	XTVVZ	1743796112	cd	3	cd 'project 5'
+64032	XTVVZ	1743796115	cd	3	cd 'Project 5'
+64033	XTVVZ	1743796119	tar	4	tar -cvzf XTVVZ_p5.tar.gz *
+64034	XTVVZ	1743796202	clear	1	clear
+64035	XTVVZ	1743797633	tar	4	tar -cvzf XTVVZ_p5.tar.gz *
+64036	XTVVZ	1743797648	./a.out	1	./a.out
+64037	XTVVZ	1743797650	make	1	make
+64038	XTVVZ	1743797659	./a.out	1	./a.out
+64039	XTVVZ	1743798097	cd	3	cd 'Project 5'
+64040	XTVVZ	1743798106	tar	4	tar -cvzf XTVVZ_p5.tar.gz *
+64041	FEQOT	1743728807	make	1	make
+64042	FEQOT	1743728815	./a.out	1	./a.out
+64043	FEQOT	1743729076	make	1	make
+64044	FEQOT	1743729086	LOAD	2	LOAD ../a.csv
+64045	FEQOT	1743729091	./a.out	1	./a.out
+64046	FEQOT	1743729382	tar	4	tar -czvf FEQOT_p5.tar.gz *
+64047	FEQOT	1743729903	make	1	make
+64048	FEQOT	1743729913	./a.out	1	./a.out
+64049	FEQOT	1743731785	make	1	make
+64050	FEQOT	1743731800	./a.out	1	./a.out
+64051	FEQOT	1743731900	tar	4	tar -czvf FEQOT_p5.tar.gz *
+64052	FEQOT	1743739140	.a.out	1	.a.out
+64053	FEQOT	1743739145	./a.out	1	./a.out
+64054	FEQOT	1743739150	make	1	make
+64055	FEQOT	1743739158	./a.out	1	./a.out
+64056	FEQOT	1743746133	tar	4	tar -czvf FEQOT_p5.tar.gz *
+64057	RJDUY	1743451672	cd	2	cd ece250
+64058	RJDUY	1743451673	ls	1	ls
+64059	RJDUY	1743452140	git	2	git pull
+64060	RJDUY	1743453082	cd	2	cd proj5
+64061	RJDUY	1743453083	ls	1	ls
+64062	RJDUY	1743453084	make	1	make
+64063	RJDUY	1743454575	git	2	git pull
+64064	RJDUY	1743454576	make	1	make
+64065	RJDUY	1743455129	git	2	git pull
+64066	RJDUY	1743455137	make	1	make
+64067	RJDUY	1743455147	gdb	2	gdb ./a.out
+64068	RJDUY	1743457003	git	2	git pull
+64069	RJDUY	1743457027	rm	5	rm ./a.out; make; gdb ./a.out
+64070	RJDUY	1743463204	git	2	git pull
+64071	RJDUY	1743463208	rm	5	rm ./a.out; make; gdb ./a.out
+64072	RJDUY	1743463260	git	2	git pull
+64073	RJDUY	1743463262	rm	5	rm ./a.out; make; gdb ./a.out
+64074	RJDUY	1743463327	git	2	git pull
+64075	RJDUY	1743463329	rm	5	rm ./a.out; make; gdb ./a.out
+64076	RJDUY	1743463443	valgrind	3	valgrind --leak_check=full ./a.out
+64077	RJDUY	1743463456	valgrind	2	valgrind --help
+64078	RJDUY	1743463468	valgrind	3	valgrind --leak-check=full ./a.out
+64079	RJDUY	1743463523	valgrind	4	valgrind --leak-check=full -s ./a.out
+64080	RJDUY	1743463653	git	2	git pull
+64081	RJDUY	1743463671	rm	7	rm ./a.out; make; valgrind --leak-check=full -s ./a.out
+64082	RJDUY	1743463775	rm	5	rm ./a.out; make; gdb ./a.out
+64083	RJDUY	1743464400	git	2	git pull
+64084	RJDUY	1743464402	rm	5	rm ./a.out; make; gdb ./a.out
+64085	RJDUY	1743464413	rm	7	rm ./a.out; make; valgrind --leak-check=full -s ./a.out
+64086	RJDUY	1743464450	rm	5	rm ./a.out; make; gdb ./a.out
+64087	RJDUY	1743466381	rm	7	rm ./a.out; make; valgrind --leak-check=full -s ./a.out
+64088	RJDUY	1743466467	ls	1	ls
+64089	RJDUY	1743466471	rm	2	rm ./a.out
+64090	RJDUY	1743466487	mv	4	mv ./lab2_multidata.csv ../; ls
+64091	RJDUY	1743466544	tar	4	tar -cvzf RJDUY_p5.tar.gz *
+64092	RJDUY	1743466562	ls	1	ls
+64093	RJDUY	1743478447	w	1	w
+64094	RJDUY	1743536167	cd	2	cd ece250/
+64095	RJDUY	1743536193	git	2	git pull
+64096	RJDUY	1743536199	cd	2	cd proj5/
+64097	RJDUY	1743536200	ls	1	ls
+64098	RJDUY	1743536213	rm	4	rm ./RJDUY_p5.tar.gz ; make
+64099	RJDUY	1743536218	rm	2	rm ./a.out
+64100	RJDUY	1743536246	tar	4	tar -cvzf RJDUY_p5.tar.gz *
+64101	RJDUY	1743536249	ls	1	ls
+64102	RJDUY	1743547553	git	2	git pull
+64103	RJDUY	1743547558	cd	4	cd ece250/; git pull
+64104	RJDUY	1743547562	ls	1	ls
+64105	RJDUY	1743547568	cd	2	cd proj5
+64106	RJDUY	1743547596	rm	6	rm RJDUY_p5.tar.gz; tar -cvzf RJDUY_p5.tar.gz *
+64107	RJDUY	1743547598	ls	1	ls
+64108	RJDUY	1743547726	vim	2	vim RJDUY_design_p5.txt
+64109	RJDUY	1743547742	git	2	git log
+64110	RJDUY	1743557283	w	1	w
+64111	XNISA	1743352050	cd	2	cd Python_SimPusher_Project
+64112	XNISA	1743352053	ls	1	ls
+64113	XNISA	1743352055	cd	2	cd simenv/bin/
+64114	XNISA	1743352059	.	2	. activate
+64115	XNISA	1743352060	cd	2	cd ..
+64116	XNISA	1743352062	ls	1	ls
+64117	XNISA	1743352069	python	2	python Open_From_Terminal_Test.py
+64118	XNISA	1743437497	df	2	df -h
+64119	XNISA	1743702701	ls	1	ls
+64120	XNISA	1743702737	rm	3	rm -rf Generate_Randomized_Data
+64121	XNISA	1743702739	ls	1	ls
+64122	XNISA	1743702754	rm	3	rm -rf Generated_Randomized_Data
+64123	XNISA	1743702756	ls	1	ls
+64124	XNISA	1743704179	du	3	du -sh Generated_Randomized_Data
+64125	XNISA	1743704434	rm	3	rm -rf Generated_Randomized_Data
+64126	XNISA	1743705120	unrar	3	unrar x Generated_Randomized_Data.rar
+64127	XNISA	1743712017	cd	2	cd Python_SimPusher_Project
+64128	XNISA	1743712018	ls	1	ls
+64129	XNISA	1743712022	cd	2	cd simenv/bin/
+64130	XNISA	1743712024	.	2	. activate
+64131	XNISA	1743712025	cd	2	cd ..
+64132	XNISA	1743712028	ls	1	ls
+64133	XNISA	1743712333	python	2	python Open_From_Terminal_Test.py
+64134	XNISA	1743960913	deactivate	1	deactivate
+64135	XNISA	1743960916	ls	1	ls
+64136	XNISA	1743960918	cd	2	cd ..
+64137	XNISA	1743960919	ls	1	ls
+64138	XNISA	1743960973	sudo	4	sudo apt-get install zip
+64139	XNISA	1743961023	zip	4	zip -r Simulations_Random.zip Simulations_Random
+64140	XNISA	1744035419	cd	2	cd Python_SimPusher_Project
+64141	XNISA	1744035423	cd	2	cd simenv/bin/
+64142	XNISA	1744035426	.	2	. activate
+64143	XNISA	1744035427	cd	2	cd ..
+64144	XNISA	1744035430	ls	1	ls
+64145	XNISA	1744035468	python	2	python Open_From_Terminal_Test.py
+64146	XNISA	1744035500	python	2	python Open_From_Terminal_Test_Reference.py
+64147	XNISA	1744051697	zip	4	zip -r Simulation_Random.zip Simulation_Random
+64148	XNISA	1744051717	zip	4	zip -r Simulations_Random.zip Simulations_Random
+64149	RTNTX	1743080782	make	1	make
+64150	RTNTX	1743080786	./a.out	1	./a.out
+64151	RTNTX	1743081098	make	1	make
+64152	RTNTX	1743081102	./a.out	1	./a.out
+64153	RTNTX	1743270066	make	1	make
+64154	RTNTX	1743270070	./a.out	1	./a.out
+64155	RTNTX	1743272193	make	1	make
+64156	RTNTX	1743278847	./a.out	1	./a.out
+64157	RTNTX	1743278913	ls	1	ls
+64158	RTNTX	1743278923	rm	2	rm a.out
+64159	RTNTX	1743278926	ls	1	ls
+64160	RTNTX	1743279281	make	1	make
+64161	RTNTX	1743279288	ls	1	ls
+64162	RTNTX	1743279291	rm	2	rm a.out
+64163	RTNTX	1743279302	rm	2	rm RTNTX_p3.tar.gz
+64164	RTNTX	1743279304	ls	1	ls
+64165	RTNTX	1743279319	tar	4	tar -cvzf RTNTX_p3.tar.gz *
+64166	RTNTX	1743279323	ls	1	ls
+64167	RTNTX	1743279778	cd	1	cd
+64168	RTNTX	1743280146	make	1	make
+64169	RTNTX	1743280814	./a.out	1	./a.out
+64170	RTNTX	1743280862	make	1	make
+64171	RTNTX	1743280871	./a.out	1	./a.out
+64172	RTNTX	1743281030	make	1	make
+64173	RTNTX	1743281037	./a.out	1	./a.out
+64174	RTNTX	1743281221	make	1	make
+64175	RTNTX	1743281506	./a.out	1	./a.out
+64176	RTNTX	1743281724	make	1	make
+64177	RTNTX	1743281728	./a.out	1	./a.out
+64178	RTNTX	1743281916	make	1	make
+64179	RTNTX	1743281920	./a.out	1	./a.out
+64180	RTNTX	1743282047	make	1	make
+64181	RTNTX	1743282053	ls	1	ls
+64182	RTNTX	1743282056	rm	2	rm a.out
+64183	RTNTX	1743282064	rm	2	rm RTNTX_p4.tar.gz
+64184	RTNTX	1743282065	ls	1	ls
+64185	RTNTX	1743282076	tar	4	tar -cvzf RTNTX_p4.tar.gz *
+64186	RTNTX	1743282078	ls	1	ls
+64187	RTNTX	1743282550	./a.out	1	./a.out
+64188	RTNTX	1743282553	make	1	make
+64189	RTNTX	1743282558	./a.out	1	./a.out
+64190	RTNTX	1743283049	make	1	make
+64191	RTNTX	1743283054	./a.out	1	./a.out
+64192	RTNTX	1743283316	make	1	make
+64193	RTNTX	1743283558	./a.out	1	./a.out
+64194	RTNTX	1743283772	make	1	make
+64195	RTNTX	1743283779	./a.out	1	./a.out
+64196	RTNTX	1743283829	make	1	make
+64197	RTNTX	1743283834	./a.out	1	./a.out
+64198	RTNTX	1743283992	make	1	make
+64199	RTNTX	1743284001	./a.out	1	./a.out
+64200	RTNTX	1743284258	make	1	make
+64201	RTNTX	1743284263	./a.out	1	./a.out
+64202	RTNTX	1743284371	make	1	make
+64203	RTNTX	1743285441	cd	1	cd
+64204	RTNTX	1743285443	ls	1	ls
+64205	RTNTX	1743285459	mkdir	2	mkdir project_5
+64206	RTNTX	1743285461	ls	1	ls
+64207	RTNTX	1743286028	make	1	make
+64208	RTNTX	1743287108	./a.out	1	./a.out
+64209	RTNTX	1743287185	make	1	make
+64210	RTNTX	1743287226	./a.out	1	./a.out
+64211	RTNTX	1743287245	make	1	make
+64212	RTNTX	1743287251	./a.out	1	./a.out
+64213	RTNTX	1743287390	EXIT	1	EXIT
+64214	RTNTX	1743287401	make	1	make
+64215	RTNTX	1743287408	./a.out	1	./a.out
+64216	RTNTX	1743287500	make	1	make
+64217	RTNTX	1743287506	./a.out	1	./a.out
+64218	RTNTX	1743690815	make	1	make
+64219	RTNTX	1743691067	./a.out	1	./a.out
+64220	RTNTX	1743691431	make	1	make
+64221	RTNTX	1743691435	ls	1	ls
+64222	RTNTX	1743691439	rm	2	rm a.out
+64223	RTNTX	1743691455	tar	4	tar -cvzf RTNTX_p5.tar.gz *
+64224	RTNTX	1743691459	ls	1	ls
+64225	RTNTX	1743691731	valgrind	3	valgrind --leak-check=full ./project5
+64226	RTNTX	1743691744	valgrind	3	valgrind --leak-check=full ./project_5
+64227	RTNTX	1743691757	valgrind	2	valgrind --leak-check=full
+64228	RTNTX	1743691763	cd	1	cd
+64229	RTNTX	1743691764	ls	1	ls
+64230	RTNTX	1743691768	valgrind	3	valgrind --leak-check=full ./project_5
+64231	RTNTX	1743691777	cd	2	cd project_5
+64232	RTNTX	1743691859	g++	10	g++ -std=c++17 -o project_5 main.cpp CountryDataset.cpp TimeSeries.cpp DatasetTree.cpp TreeNode.cpp Graph.cpp
+64233	RTNTX	1743691873	g++	10	g++ -std=c++17 -o project_5 main.cpp CountryDataset.cpp TimeSeries.cpp DatasetTree.cpp TreeNode.cpp CountryGraph.cpp
+64234	RTNTX	1743691876	ls	1	ls
+64235	RTNTX	1743691885	valgrind	3	valgrind --leak-check=full ./project_5
+64236	RTNTX	1743695895	./a.out	1	./a.out
+64237	RTNTX	1743696005	make	1	make
+64238	RTNTX	1743696009	ls	1	ls
+64239	RTNTX	1743696017	rm	2	rm project_5
+64240	RTNTX	1743696019	ls	1	ls
+64241	RTNTX	1743696022	rm	2	rm a.out
+64242	RTNTX	1743696030	rm	2	rm RTNTX_p5.tar.gz
+64243	RTNTX	1743696031	ls	1	ls
+64244	RTNTX	1743696050	tar	4	tar -cvzf RTNTX_p5.tar.gz *
+64245	RTNTX	1743696051	ls	1	ls
+64246	RTNTX	1743696136	g++	11	g++ -std=c++17 -g -o project_5 main.cpp CountryDataset.cpp TimeSeries.cpp DatasetTree.cpp TreeNode.cpp CountryGraph.cpp
+64247	RTNTX	1743696271	callgrind_annotate	2	callgrind_annotate callgrind.out.<pid>
+64248	RTNTX	1743696291	make	1	make
+64249	RTNTX	1743696635	ls	1	ls
+64250	RTNTX	1743696641	rm	2	rm project_5
+64251	RTNTX	1743696642	ls	1	ls
+64252	RTNTX	1743696651	rm	2	rm a.out
+64253	RTNTX	1743696653	ls	1	ls
+64254	RTNTX	1743696696	./a.out	3	./a.out < test01.in
+64255	RTNTX	1743695674	make	1	make
+64256	RTNTX	1743695737	./a.out	1	./a.out
+64257	RTNTX	1743694760	make	1	make
+64258	RTNTX	1743694766	./a.out	1	./a.out
+64259	RTNTX	1743695504	make	1	make
+64260	RTNTX	1743695519	./a.out	1	./a.out
+64261	RTNTX	1743692034	g++	12	g++ -std=c++17 -fsanitize=address -g -o project_5 main.cpp CountryDataset.cpp TimeSeries.cpp DatasetTree.cpp TreeNode.cpp CountryGraph.cpp
+64262	RTNTX	1743692042	./project_5	1	./project_5
+64263	RTNTX	1743692074	g++	11	g++ -std=c++17 -g -o project_5 main.cpp CountryDataset.cpp TimeSeries.cpp DatasetTree.cpp TreeNode.cpp CountryGraph.cpp
+64264	RTNTX	1743692088	valgrind	3	valgrind --leak-check=full ./project_5
+64265	RTNTX	1743692326	g++	11	g++ -std=c++17 -g -o project_5 main.cpp CountryDataset.cpp TimeSeries.cpp DatasetTree.cpp TreeNode.cpp CountryGraph.cpp
+64266	RTNTX	1743692337	valgrind	3	valgrind --leak-check=full ./project_5
+64267	RTNTX	1743693569	g++	11	g++ -std=c++17 -g -o project_5 main.cpp CountryDataset.cpp TimeSeries.cpp DatasetTree.cpp TreeNode.cpp CountryGraph.cpp
+64268	RTNTX	1743693571	valgrind	6	valgrind --leak-check=full --track-origins=yes ./project_5 < test_autograder.txt
+64269	RTNTX	1743694099	-s	1	-s
+64270	RTNTX	1743694613	make	1	make
+64271	RTNTX	1743740447	ls	1	ls
+64272	RTNTX	1743740449	rm	2	rm a.out
+64273	RTNTX	1743740456	rm	2	rm RTNTX_p4.tar.gz
+64274	RTNTX	1743740465	rm	2	rm lab2_multidata.csv
+64275	RTNTX	1743740466	ls	1	ls
+64276	RTNTX	1743740476	tar	4	tar -cvzf RTNTX_p4.tar.gz *
+64277	RTNTX	1743740489	ls	1	ls
+64278	RTNTX	1743730630	ls	1	ls
+64279	RTNTX	1743730643	rm	2	rm RTNTX_p3.tar.gz
+64280	RTNTX	1743730644	ls	1	ls
+64281	RTNTX	1743730760	tar	4	tar -cvzf RTNTX_p3.tar.gz *
+64282	RTNTX	1743730771	ls	1	ls
+64283	RTNTX	1743740553	rm	2	rm RTNTX_p3.tar.gz
+64284	RTNTX	1743740554	ls	1	ls
+64285	RTNTX	1743740561	rm	2	rm lab2_multidata.csv
+64286	RTNTX	1743740562	ls	1	ls
+64287	RTNTX	1743740570	tar	4	tar -cvzf RTNTX_p3.tar.gz *
+64288	RTNTX	1743740577	ls	1	ls
+64289	RTNTX	1743740858	make	1	make
+64290	RTNTX	1743727245	./a.out	1	./a.out
+64291	RTNTX	1743727518	ls	1	ls
+64292	RTNTX	1743727522	rm	2	rm a.out
+64293	RTNTX	1743727532	rm	2	rm RTNTX_p5.tar.gz
+64294	RTNTX	1743727533	ls	1	ls
+64295	RTNTX	1743727656	tar	4	tar -cvzf RTNTX_p5.tar.gz *
+64296	RTNTX	1743727658	ls	1	ls
+64297	RTNTX	1743725198	./a.out	1	./a.out
+64298	RTNTX	1743725324	g++	11	g++ -std=c++17 -g -o project_5 main.cpp TimeSeries.cpp CountryDataset.cpp DatasetTree.cpp TreeNode.cpp CountryGraph.cpp
+64299	RTNTX	1743725380	./project_5	1	./project_5
+64300	RTNTX	1743725415	valgrind	3	valgrind --leak-check=full ./project_5
+64301	RTNTX	1743725661	ls	1	ls
+64302	RTNTX	1743725674	rm	2	rm project_5
+64303	RTNTX	1743725676	rm	2	rm a.out
+64304	RTNTX	1743725683	rm	2	rm RTNTX_p5.tar.gz
+64305	RTNTX	1743725684	ls	1	ls
+64306	RTNTX	1743725785	tar	4	tar -cvzf RTNTX_p5.tar.gz *
+64307	RTNTX	1743725792	ls	1	ls
+64308	RTNTX	1743726292	make	1	make
+64309	RTNTX	1743726300	./a.out	1	./a.out
+64310	RTNTX	1743726367	make	1	make
+64311	RTNTX	1743726373	./a.out	1	./a.out
+64312	RTNTX	1743726540	ls	1	ls
+64313	RTNTX	1743726546	rm	2	rm a.out
+64314	RTNTX	1743726555	rm	2	rm RTNTX_p5.tar.gz
+64315	RTNTX	1743726556	ls	1	ls
+64316	RTNTX	1743726565	tar	4	tar -cvzf RTNTX_p5.tar.gz *
+64317	RTNTX	1743726567	ls	1	ls
+64318	RTNTX	1743809016	rm	2	rm RTNTX_p5.tar.gz
+64319	RTNTX	1743809018	ls	1	ls
+64320	RTNTX	1743809061	make	1	make
+64321	RTNTX	1743809115	ls	1	ls
+64322	RTNTX	1743809118	rm	2	rm a.out
+64323	RTNTX	1743809127	rm	2	rm lab2_multidata.csv
+64324	RTNTX	1743809128	ls	1	ls
+64325	RTNTX	1743809141	tar	4	tar -cvzf RTNTX_p5.tar.gz *
+64326	XVBET	1743433167	cd	2	cd project_5
+64327	XVBET	1743433185	tar	4	tar -czvf XVBET_p5.tar.gz *
+64328	XVBET	1743466881	cd	2	cd project_5
+64329	XVBET	1743466969	tar	4	tar -czvf XVBET_p5.tar.gz *
+64330	XVBET	1743568102	cd	2	cd project_5
+64331	XVBET	1743568130	tar	4	tar -czvf XVBET_p5.tar.gz *
+64332	NXGRO	1743177702	cd	2	cd /home/NXGRO/testing_5/
+64333	NXGRO	1743177723	make	1	make
+64334	NXGRO	1743177787	valgrind	2	valgrind --leak-check=yes
+64335	NXGRO	1743177794	valgrind	3	valgrind --leak-check=yes ./a.out
+64336	NXGRO	1743177833	valgrind	4	valgrind --leak-check=yes ./a.out -s
+64337	NXGRO	1743177878	valgrind	3	valgrind --leak-check=yes ./a.out
+64338	NXGRO	1743178447	make	1	make
+64339	NXGRO	1743178456	valgrind	3	valgrind --leak-check=yes ./a.out
+64340	HQZOV	1743447779	ls	1	ls
+64341	HQZOV	1743447949	make	1	make
+64342	HQZOV	1743447957	./a.out	1	./a.out
+64343	HQZOV	1743448068	[A	1	[A
+64344	HQZOV	1743448069	./a.out	1	./a.out
+64345	IRYYN	1743035824	make	1	make
+64346	IRYYN	1743035835	./a.out	1	./a.out
+64347	IRYYN	1743038098	make	1	make
+64348	IRYYN	1743038102	./a.out	1	./a.out
+64349	IRYYN	1743038237	make	1	make
+64350	IRYYN	1743038240	./a.out	1	./a.out
+64351	IRYYN	1743038333	make	1	make
+64352	IRYYN	1743038336	./a.out	1	./a.out
+64353	IRYYN	1743038981	make	1	make
+64354	IRYYN	1743038984	./a.out	1	./a.out
+64355	IRYYN	1743039125	make	1	make
+64356	IRYYN	1743039253	./a.out	1	./a.out
+64357	IRYYN	1743035531	cd	2	cd p5
+64358	IRYYN	1743035534	ls	1	ls
+64359	IRYYN	1743035591	tar	4	tar -cvzf IRYYN_p5.tar.gz *
+64360	IRYYN	1743035593	ls	1	ls
+64361	IRYYN	1743036092	rm	2	rm IRYYN_p5.tar.gz
+64362	IRYYN	1743037524	ls	1	ls
+64363	IRYYN	1743037529	tar	4	tar -cvzf IRYYN_p5.tar.gz *
+64364	IRYYN	1743037694	rm	2	rm IRYYN_p5.tar.gz
+64365	IRYYN	1743037696	tar	4	tar -cvzf IRYYN_p5.tar.gz *
+64366	IRYYN	1743037810	rm	2	rm IRYYN_p5.tar.gz
+64367	IRYYN	1743037811	tar	4	tar -cvzf IRYYN_p5.tar.gz *
+64368	IRYYN	1743039566	rm	2	rm IRYYN_p5.tar.gz
+64369	IRYYN	1743039568	tar	4	tar -cvzf IRYYN_p5.tar.gz *
+64370	IRYYN	1743039717	rm	2	rm IRYYN_p5.tar.gz
+64371	IRYYN	1743039719	tar	4	tar -cvzf IRYYN_p5.tar.gz *
+64372	IRYYN	1743369469	ls	1	ls
+64373	IRYYN	1743369475	cd	2	cd p5
+64374	IRYYN	1743369478	tar	4	tar -cvzf IRYYN_p5.tar.gz *
+64375	IRYYN	1743443592	cd	2	cd p5
+64376	IRYYN	1743443594	tar	4	tar -cvzf IRYYN_p5.tar.gz *
+64377	IRYYN	1743495733	ls	1	ls
+64378	IRYYN	1743495736	cd	2	cd p5
+64379	IRYYN	1743495739	tar	4	tar -cvzf IRYYN_p5.tar.gz *
+64380	IRYYN	1743496037	ls	1	ls
+64381	IRYYN	1743496047	tar	4	tar -cvzf IRYYN_p5.tar.gz *
+64382	IRYYN	1743495651	make	1	make
+64383	IRYYN	1743613625	cd	2	cd p5
+64384	IRYYN	1743613641	tar	4	tar -cvzf IRYYN_p5.tar.gz *
+64385	TEHCW	1742825302	ls	1	ls
+64386	TEHCW	1742825303	cd	2	cd history_archive/
+64387	TEHCW	1742825304	ls	1	ls
+64388	TEHCW	1742825310	cd	2	cd 2025-03-254
+64389	TEHCW	1742825312	cd	2	cd 2025-03-24
+64390	TEHCW	1742825316	cd	2	cd ..
+64391	TEHCW	1742825345	sudo	3	sudo crontab -e
+64392	TEHCW	1742825373	cd	2	cd ..
+64393	TEHCW	1742825385	cd	2	cd wtmp_bak/
+64394	TEHCW	1742825386	ls	1	ls
+64395	TEHCW	1742825400	sudo	4	sudo cp /var/log/wtmp wtmp_mar24.bak
+64396	TEHCW	1742825401	ls	1	ls
+64397	TEHCW	1742825556	last	3	last -f wtmp_mar24.bak
+64398	TEHCW	1742826008	who	1	who
+64399	TEHCW	1742826009	htop	1	htop
+64400	TEHCW	1742826559	cd	2	cd ../history_archive/
+64401	TEHCW	1742826562	ls	1	ls
+64402	TEHCW	1742826595	python3	2	python3 obtain_timestamp.py
+64403	TEHCW	1742826606	sudo	4	sudo chown TEHCW:TEHCW 2025-03-24
+64404	TEHCW	1742826612	sudo	5	sudo chown -R TEHCW:TEHCW 2025-03-24
+64405	TEHCW	1742826614	python3	2	python3 obtain_timestamp.py
+64406	TEHCW	1742826639	python3	2	python3 parse_files_csv.py
+64407	TEHCW	1742826939	python	2	python link_commands.py
+64408	TEHCW	1742826943	python3	2	python3 link_commands.py
+64409	TEHCW	1742827030	ls	1	ls
+64410	TEHCW	1742827057	cd	2	cd ../wtmp_bak/
+64411	TEHCW	1742827058	ls	1	ls
+64412	TEHCW	1742827063	nano	2	nano parse_bak.sh
+64413	TEHCW	1742827096	./parse_bak.sh	1	./parse_bak.sh
+64414	TEHCW	1742827105	./parse_bak.sh	3	./parse_bak.sh > mar24_parse.csv
+64415	TEHCW	1742919130	sudo	2	sudo -i
+64416	TEHCW	1742919466	logout	1	logout
+64417	TEHCW	1743351335	htop	1	htop
+64418	TEHCW	1743351342	logout	1	logout
+64419	TEHCW	1743598449	htop	1	htop
+64420	TEHCW	1743598464	who	1	who
+64421	TEHCW	1743598471	logout	1	logout
+64422	TEHCW	1743437650	mount	4	mount | grep quota
+64423	TEHCW	1743437660	quota	3	quota -u XNISA
+64424	TEHCW	1743437662	sudo	4	sudo quota -u XNISA
+64425	TEHCW	1743437674	df	1	df
+64426	TEHCW	1743437872	ip	2	ip a
+64427	TEHCW	1743437895	sudo	2	sudo -i
+64428	TEHCW	1743616920	ls	1	ls
+64429	TEHCW	1743616924	cd	2	cd wtmp_bak/
+64430	TEHCW	1743616959	sudo	4	sudo cp /var/log/wtmp wtmp_apr2.bak
